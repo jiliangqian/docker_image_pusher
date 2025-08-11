@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/amd64
-pytorch/pytorch:2.7.1-cuda11.8-cudnn9-runtime
+apacherocketmq/rocketmq-nameserver:4.5.0-alpine-operator-0.3.0
