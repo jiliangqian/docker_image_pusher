@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/amd64
-redis:7-alpine
+hsliup/tradingagents-backend:latest
