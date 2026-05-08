@@ -1,2 +1,3 @@
---platform=linux/arm64
-arm64v8/openjdk:8-jdk
+#支持指定架构
+#--platform=linux/amd64
+neo4j:latest
