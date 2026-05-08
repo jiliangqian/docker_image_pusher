@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 redis:7.4.2
+--platform=linux/arm64 arm64v8/openjdk:8-jdk
