@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 python:3.10
+--platform=linux/arm64 redis:7.4.2
