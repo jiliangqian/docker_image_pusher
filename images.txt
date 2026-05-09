@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 arm64v8/openjdk:8-jdk
+--platform=linux/arm64 rancher/local-path-provisioner:v0.0.24
